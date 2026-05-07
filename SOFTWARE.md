@@ -1,15 +1,4 @@
-
-
-
-- Matrix
-
-- go
-- java
-
-- zig
-
-
------
+# SOFTWARE
 
 ## REPOS:
 
@@ -73,6 +62,11 @@
 - bun
 - ruby (with rvm)
 
+- go
+- java jdk
+
+- zig
+
 - Zig (Latest build)
 - Ghostty (Latest build)
 
@@ -87,9 +81,9 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting ${ZSH_CUSTOM:-~/.
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 - VScode extensions/settings
--
-- Brave Settings
-- Firefox Settings
+
+- Brave Settings~
+- Firefox Settings~
 
 ## Extras (Optional):
 
